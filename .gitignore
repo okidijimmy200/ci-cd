@@ -1,0 +1,5 @@
+venv
+instance
+.pytest_cache
+.history
+__pycache__
